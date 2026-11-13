@@ -10,6 +10,7 @@
     "build": "node scripts/check.mjs",
     "test": "node --test test/*.test.mjs",
     "demo": "node src/demo.mjs",
+    "demo:tags": "node src/demo-tags.mjs",
     "start": "node src/main.mjs",
     "source": "node fixtures/main.mjs"
   },
